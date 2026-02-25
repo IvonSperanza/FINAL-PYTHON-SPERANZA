@@ -1,4 +1,4 @@
-# MiWallet - Billetera Virtual
+# Billetera Virtual
 
 Trabajo Practico Final - Programacion Orientada a Objetos en Python
 
